@@ -21,5 +21,5 @@ class Config:
 
     val_set_size = 2000
     data_path = "../../data/trans_chinese_alpaca_data.json"
-    base_model = "decapoda-research/llama-7b-hf"
+    base_model = "baffo32/decapoda-research-llama-7B-hf"
     lora_model = "./lora_model"
